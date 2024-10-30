@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weverse/static/css/main.a64a441d.css",
+    "main.js": "/weverse/static/js/main.4c3a91cd.js",
+    "static/js/453.c156c2ea.chunk.js": "/weverse/static/js/453.c156c2ea.chunk.js",
+    "index.html": "/weverse/index.html",
+    "main.a64a441d.css.map": "/weverse/static/css/main.a64a441d.css.map",
+    "main.4c3a91cd.js.map": "/weverse/static/js/main.4c3a91cd.js.map",
+    "453.c156c2ea.chunk.js.map": "/weverse/static/js/453.c156c2ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a64a441d.css",
+    "static/js/main.4c3a91cd.js"
+  ]
+}
